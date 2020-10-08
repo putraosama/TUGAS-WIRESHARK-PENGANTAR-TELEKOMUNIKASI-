@@ -1,0 +1,15 @@
+NAMA 	: PUTRA OSAMA
+NIM	: 09011282025049
+  PENGANTAR TELEKOMUNIKASI SK 1 A
+
+1. Mencari Throughput (Kecepatan rata-rata data yang diterima oleh suatu waktu node dalam selang waktu pengamatan tertentu)
+	Jumlah data yang dikirim(byte s)/waktu pengiriman(time span)x8
+	Jawab :		  
+		17084872 / 602.293 x 8
+    Throughput	= 226.9310385476836
+2. Mencari Packet Loss (Banyaknya paket yang hilang pada suatu jaringan paket yang disebabkan oleh tabrakan, penuhnya 
+   kapasitas jaringan, dan habisnya TTL.
+	Jumlah paket yang dikirim - jumlah paket yang diterima/jumlah paket yang dikirim x 100%
+	Jawab :
+		27486 - 27486 / 27486 x 100
+  Packet Loss	= 0
